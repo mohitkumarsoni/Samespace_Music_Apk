@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/forYouFragment">
+    <fragment
+        android:id="@+id/forYouFragment"
+        android:name="com.example.samespacemusicapk.ui_layers.sheets.fragment_ui.for_you.ForYouFragment"
+        android:label="fragment_for_you"
+        tools:layout="@layout/fragment_for_you" />
+    <fragment
+        android:id="@+id/topTracksFragment"
+        android:name="com.example.samespacemusicapk.ui_layers.sheets.fragment_ui.top_tracks.TopTracksFragment"
+        android:label="fragment_top_tracks"
+        tools:layout="@layout/fragment_top_tracks" />
+</navigation>
