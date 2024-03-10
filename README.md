@@ -25,3 +25,8 @@
 💠Backward 10 Seconds: Easily rewind to catch a missed beat or lyric.
 
 💠UI Seekbar: Intuitive and user-friendly seekbar for jumping to specific parts of the music effortlessly.
+
+
+_**VIDEO PREVIEW BELOW**_
+
+https://github.com/mohitkumarsoni/Samespace_Music_Apk/assets/108524949/b38e1a9f-6c82-4e44-adc0-465b0743639c
