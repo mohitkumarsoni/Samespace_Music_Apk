@@ -65,7 +65,7 @@ dependencies {
     // For exposing and controlling media sessions
     implementation("androidx.media3:media3-session:1.2.1")
 
-    //
+    // lottie animation
     implementation ("com.airbnb.android:lottie:6.3.0")
 
 
